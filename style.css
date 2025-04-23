@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #121212;
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  .container {
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  input {
+    padding: 10px;
+    width: 80%;
+    border: none;
+    margin-top: 20px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin-top: 10px;
+    font-size: 16px;
+    background: #fffc00;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #status {
+    margin-top: 20px;
+  }
+  
